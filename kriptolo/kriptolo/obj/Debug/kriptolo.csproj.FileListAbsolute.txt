@@ -1,0 +1,7 @@
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\bin\Debug\kriptolo.exe.config
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\bin\Debug\kriptolo.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\bin\Debug\kriptolo.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\obj\Debug\kriptolo.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\obj\Debug\kriptolo.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\obj\Debug\kriptolo.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\kriptolo\kriptolo\obj\Debug\kriptolo.pdb
