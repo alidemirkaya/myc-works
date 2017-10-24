@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="okul" Class="baglanti1" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-9O1LVRH\SQLEXPRESS;Initial Catalog=okul;Integrated Security=True" SettingsObjectName="uygulama2.Properties.Settings" SettingsPropertyName="okulConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Bolumler" Member="Bolumler">
+    <Type Name="Bolumler">
+      <Column Name="bolum_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="bolum_ismi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Bolumler_Ogrenci" Member="Ogrenci" ThisKey="bolum_id" OtherKey="bolum_o_id" Type="Ogrenci" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ogrenci" Member="Ogrenci">
+    <Type Name="Ogrenci">
+      <Column Name="okul_o_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="bolum_o_id" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="ogrenci_ad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ogrenci_soyad" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Bolumler_Ogrenci" Member="Bolumler" ThisKey="bolum_o_id" OtherKey="bolum_id" Type="Bolumler" IsForeignKey="true" />
+      <Association Name="Okullar_Ogrenci" Member="Okullar" ThisKey="okul_o_id" OtherKey="okul_id" Type="Okullar" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Okullar" Member="Okullar">
+    <Type Name="Okullar">
+      <Column Name="okul_id" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="okul_adi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Okullar_Ogrenci" Member="Ogrenci" ThisKey="okul_id" OtherKey="okul_o_id" Type="Ogrenci" />
+    </Type>
+  </Table>
+</Database>

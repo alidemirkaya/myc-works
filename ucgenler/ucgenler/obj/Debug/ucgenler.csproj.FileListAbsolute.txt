@@ -1,0 +1,10 @@
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\bin\Debug\ucgenler.exe.config
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\bin\Debug\ucgenler.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\bin\Debug\ucgenler.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.Form1.resources
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.csproj.GenerateResource.Cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ucgenler\ucgenler\obj\Debug\ucgenler.pdb

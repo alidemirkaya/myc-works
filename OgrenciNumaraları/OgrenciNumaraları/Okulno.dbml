@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Okulnum" Class="OkulnoDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-9O1LVRH\SQLEXPRESS;Initial Catalog=Okulnum;Integrated Security=True" SettingsObjectName="OgrenciNumaraları.Properties.Settings" SettingsPropertyName="OkulnumConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Bolumler" Member="Bolumler">
+    <Type Name="Bolumler">
+      <Column Name="OkulId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BolumId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="BolumAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Bolumler_Ogrenciler" Member="Ogrenciler" ThisKey="BolumId" OtherKey="BolumId" Type="Ogrenciler" />
+      <Association Name="Okullar_Bolumler" Member="Okullar" ThisKey="OkulId" OtherKey="OkulId" Type="Okullar" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Ogrenciler" Member="Ogrenciler">
+    <Type Name="Ogrenciler">
+      <Column Name="OkulId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BolumId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="OgrenciId" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="OgrenciAdi" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Association Name="Bolumler_Ogrenciler" Member="Bolumler" ThisKey="BolumId" OtherKey="BolumId" Type="Bolumler" IsForeignKey="true" />
+      <Association Name="Okullar_Ogrenciler" Member="Okullar" ThisKey="OkulId" OtherKey="OkulId" Type="Okullar" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Okullar" Member="Okullar">
+    <Type Name="Okullar">
+      <Column Name="OkulId" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="OkulAdi" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Association Name="Okullar_Bolumler" Member="Bolumler" ThisKey="OkulId" OtherKey="OkulId" Type="Bolumler" />
+      <Association Name="Okullar_Ogrenciler" Member="Ogrenciler" ThisKey="OkulId" OtherKey="OkulId" Type="Ogrenciler" />
+    </Type>
+  </Table>
+</Database>

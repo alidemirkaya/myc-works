@@ -1,0 +1,12 @@
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\bin\Debug\OgrenciNumaraları.exe.config
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\bin\Debug\OgrenciNumaraları.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\bin\Debug\OgrenciNumaraları.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.Form1.resources
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.csproj.GenerateResource.Cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.Bolum.resources
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\OgrenciNumaraları\OgrenciNumaraları\obj\Debug\OgrenciNumaraları.Ekle.resources

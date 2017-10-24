@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Okulno">
+  <DataContextMoniker Name="/OkulnoDataContext" />
+  <nestedChildShapes>
+    <classShape Id="66d1c5fb-6557-4404-ae72-848051898cbc" absoluteBounds="3.5, 1, 2, 1.3862939453124998">
+      <DataClassMoniker Name="/OkulnoDataContext/Bolumler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1586df5c-7d1e-4a14-baeb-580390161cb3" absoluteBounds="3.515, 1.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="38b106af-ce59-4f32-bccb-1489a7622eec" absoluteBounds="6.25, 0.875, 2, 1.5785953776041666">
+      <DataClassMoniker Name="/OkulnoDataContext/Ogrenciler" />
+      <nestedChildShapes>
+        <elementListCompartment Id="982b3078-89eb-4624-8eb2-5dfeddf824d7" absoluteBounds="6.265, 1.335, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d9ed2ce3-0e7c-47d1-aa9e-d1dce35d9bd7" absoluteBounds="0.75, 1.125, 2, 1.1939925130208338">
+      <DataClassMoniker Name="/OkulnoDataContext/Okullar" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5e541ec6-b901-4126-a953-5f20cfc0a81c" absoluteBounds="0.765, 1.585, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 1.69314697265625); (6.25 : 1.69314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OkulnoDataContext/Bolumler/Bolumler_Ogrenciler" />
+      <nodes>
+        <classShapeMoniker Id="66d1c5fb-6557-4404-ae72-848051898cbc" />
+        <classShapeMoniker Id="38b106af-ce59-4f32-bccb-1489a7622eec" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 1.72199625651042); (3.5 : 1.72199625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OkulnoDataContext/Okullar/Okullar_Bolumler" />
+      <nodes>
+        <classShapeMoniker Id="d9ed2ce3-0e7c-47d1-aa9e-d1dce35d9bd7" />
+        <classShapeMoniker Id="66d1c5fb-6557-4404-ae72-848051898cbc" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.31899251302083); (3.125 : 2.69399251302083); (3.125 : 2.82859537760417); (5.875 : 2.82859537760417); (6.25 : 2.45359537760417)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/OkulnoDataContext/Okullar/Okullar_Ogrenciler" />
+      <nodes>
+        <classShapeMoniker Id="d9ed2ce3-0e7c-47d1-aa9e-d1dce35d9bd7" />
+        <classShapeMoniker Id="38b106af-ce59-4f32-bccb-1489a7622eec" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
