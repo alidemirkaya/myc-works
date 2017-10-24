@@ -1,0 +1,7 @@
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\obj\Debug\tekrarettirme.csprojResolveAssemblyReference.cache
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\obj\Debug\tekrarettirme.csproj.CoreCompileInputs.cache
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\bin\Debug\tekrarettirme.exe.config
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\bin\Debug\tekrarettirme.exe
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\bin\Debug\tekrarettirme.pdb
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\obj\Debug\tekrarettirme.exe
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\tekrarettirme\tekrarettirme\obj\Debug\tekrarettirme.pdb

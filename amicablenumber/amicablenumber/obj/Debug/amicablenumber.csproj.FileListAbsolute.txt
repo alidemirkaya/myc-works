@@ -1,0 +1,7 @@
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\bin\Debug\amicablenumber.exe.config
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\bin\Debug\amicablenumber.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\bin\Debug\amicablenumber.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\obj\Debug\amicablenumber.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\obj\Debug\amicablenumber.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\obj\Debug\amicablenumber.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\amicablenumber\amicablenumber\obj\Debug\amicablenumber.pdb

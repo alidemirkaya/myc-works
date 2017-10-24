@@ -1,0 +1,10 @@
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.exe.config
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.exe
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\bin\Debug\arabayarisi.pdb
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.csprojResolveAssemblyReference.cache
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.Form1.resources
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.Properties.Resources.resources
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.csproj.GenerateResource.Cache
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.csproj.CoreCompileInputs.cache
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.exe
+c:\users\by ali demirkaya\documents\visual studio 2017\Projects\arabayarisi\arabayarisi\obj\Debug\arabayarisi.pdb

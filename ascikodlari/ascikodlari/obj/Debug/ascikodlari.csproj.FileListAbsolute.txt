@@ -1,0 +1,7 @@
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\bin\Debug\ascikodlari.exe.config
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\bin\Debug\ascikodlari.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\bin\Debug\ascikodlari.pdb
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\obj\Debug\ascikodlari.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\obj\Debug\ascikodlari.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\obj\Debug\ascikodlari.exe
+C:\Users\By Ali Demirkaya\Documents\Visual Studio 2017\Projects\ascikodlari\ascikodlari\obj\Debug\ascikodlari.pdb
